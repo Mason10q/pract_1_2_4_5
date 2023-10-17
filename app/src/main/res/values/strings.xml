@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pract_1</string>
+
+    <string name="fragment_n">Фрагмент %1$d</string>
+
+    <string name="name">ФИО: %1$s</string>
+
+    <string name="status">Статус: %1$s</string>
+
+</resources>
